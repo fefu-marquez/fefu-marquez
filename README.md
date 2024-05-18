@@ -8,7 +8,7 @@ Keep in mind this is a work in progress. But for now, check some of my awesome p
 
 ### Tech proficiency
 
-**Games Developed Counter**: 3.
+**Games Developed Counter**: 7.
 
 I've worked mostly in front web development using Angular. I'm currently trying my hand at some React. I've also worked multiple times towards mobile and responsive UIs.
 
